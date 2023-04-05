@@ -1,0 +1,157 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+    background-image: url('./backgroundimg.avif');
+    border: 10px groove green;
+}
+.first{
+    border: 5px solid red;
+    height: 120px;
+    width: 250px;
+    background-color: black;
+    display: inline-block;
+    margin: 25px;
+    border-radius: 25px;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 50px;
+}
+#pro{
+    height: 40px;
+    margin-left: -70px;
+    padding: 20px;
+
+}
+
+/* this is another section------------------------------------------- */
+
+.main{
+    display: flex;
+    margin: 30px;
+
+}
+.circle{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: rgb(18, 149, 138);
+    color: black;
+    padding: 40px;
+    margin-top: 150px;
+    
+}
+hr{
+    color: white;
+    size: 100%;
+}
+p{
+    padding: 17px;
+    padding-left: 45px;
+}
+.form{
+    display: inline-block;
+    border: 4px dashed red;
+    height: 700px;
+    width: 450px;
+    margin-left: 40px;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.bold{
+    text-align: center;
+    margin: 30px;
+}
+.lastname{
+    margin: 20px;
+    text-align: center;
+}
+.age{
+    margin: 20px;
+    text-align: center;
+}
+.mail{
+    margin: 20px;
+    text-align: center;
+}
+.birth{
+    margin: 20px;
+    text-align: center;
+}
+.checkbox{
+    margin: 20px;
+    text-align: center; 
+}
+.click{
+    margin: 20px;
+    text-align: center; 
+}
+.color{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+.reset{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+.menuu{
+    border: 5px solid red;
+    text-align: center;
+    height: 60px;
+    width: 375px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    background-color: black;
+    margin: 30px;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+.boxx{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.what{
+    border: 5px solid black;
+    height: 250px;
+    width: 250px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 25px;
+    border-radius: 25px;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.nonbold{
+    font-weight: lighter;
+}
+.secondrow{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#longg{
+    height: 300px;
+}
+#up{
+    padding-top: 5px;
+}
+
+
+
+
